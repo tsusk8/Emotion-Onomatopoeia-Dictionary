@@ -1,0 +1,33 @@
+a, a:hover{
+    text-decoration: none;
+}
+.bg-white{
+    background-color: white;
+}
+.bg-red{
+    background-color:red;
+}
+.bg-green{
+    background-color:green;
+}
+.bg-yellow{
+    background-color:yellow;
+}
+.bg-beige{
+    background-color:#DEB889;
+}
+.bg-grey{
+    background-color:grey;
+}
+.bg-purple{
+    background-color:purple;
+}
+.bg-green{
+    background-color:green;
+}
+.bg-orange{
+    background-color:orange;
+}
+.bg-lightgray{
+    background-color: lightgray;
+}
