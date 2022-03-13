@@ -1,6 +1,12 @@
 # Emotion-Onomatopoeia-Dictionary
- RecursionのProject1の最終課題です。
+ This is Recursion's Project 1 assignment.
+
+## Overview
+ Clicking on each emotion or image will take you to a list of onomatopoeic words for that emotion.
+
 ## URL
  https://tsusk8.github.io/Emotion-Onomatopoeia-Dictionary/
+
 ## Usage
- 各感情もしく画像をクリックすると、対象の感情の擬音語一覧まで遷移するアプリケーションです。
+1. Click on emotional blocks
+2. Transition to the corresponding emotion
