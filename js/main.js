@@ -1,4 +1,3 @@
-//グローバル定数
 const dictionary = {
     "bark"   :"the sound made by a dog",
     "grunt"  :"issue a low, animal-like noise",
@@ -80,8 +79,8 @@ class EmotionObject{
         this.onomatopoeia = onomatopoeia;
     }
 
+    // Returns an array of Word objects for all onomatopoeic words of the emotion.
     getOnomatopoeiaWords(){
-        // 感情のすべての擬音語のWordオブジェクトの配列を返します。
         let words = [];
         this.onomatopoeia.map(
                 word => words.push(new Word(word, dictionary[word], pictureDictionary[word]))
